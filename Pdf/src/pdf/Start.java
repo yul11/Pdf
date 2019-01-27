@@ -19,8 +19,13 @@ public class Start {
 		//System.out.println("path old pdf-files: " +resFile_o.getAbsoluteFile());
 		
 		
-		//pdf-Files im neuen Format von 2010 bis 2017		
-		String path_pdfFiles_new     = "D:/Banken/comdirect/Finanzreports_neuesFormat/";
+		//pdf-Files im neuen Format von 2010 bis 2019		
+		String path_pdfFiles_new     = "D:/Banken/comdirect/Finanzreports_2018/";
+		//String path_pdfFiles_new     = "D:/Banken/comdirect/Finanzreports_2017/";
+		//String path_pdfFiles_new     = "D:/Banken/comdirect/Finanzreports_2016/";
+		
+		//String path_pdfFiles_new     = "D:/Banken/comdirect/Finanzreports_2018_Test/";
+		
 		PDF_newFormat p_new = new PDF_newFormat();
 		File resFile_n = p_new.getResultFile(path_pdfFiles_new,path_ResultFile);
 		System.out.println("path new pdf-files: " +resFile_n.getAbsoluteFile());

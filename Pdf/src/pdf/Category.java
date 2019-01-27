@@ -39,9 +39,9 @@ public class Category {
 		List<String[]> li  = new ArrayList<String[]>(); 		
 		String[]str_parts  = new String[6];	
 		String line="";
+		boolean found = false;
 		
 		while ((line = br.readLine()) != null){
-			//System.out.println(line);			
 			str_parts = line.split("[|]");
 			
 			//http://javawiki.sowas.com/doku.php?id=java:array_vergroessern
@@ -50,15 +50,21 @@ public class Category {
 	        System.arraycopy(str_parts, 0, newArray, 0, Array.getLength(str_parts));
 	        str_parts = (String[]) newArray;
 			
+	        found = false;
 			for (Entry<String, String> entry : map_category.entrySet()) {
-			    //System.out.println(entry.getKey());
-			    //System.out.println(entry.getValue() + "\n");
 			    if (str_parts[2].contains(entry.getKey())){
-			    	//System.out.println(entry.getKey() + " gefunden");
 			    	str_parts[4] = entry.getKey();
 			    	str_parts[5] = entry.getValue();
+			    	found = true;
 			    }	
-			}						
+			}
+			
+			if (!found){
+				if (str_parts.length == 6){
+					str_parts[4] = ("NN Stichwort");
+					str_parts[5] = ("NN Kategorie");
+				}
+			}			
 			li.add(str_parts);
 		}
 		//Array-Liste ausgeben. Jedes Element der Liste ist ein String-Array, das eine Buchung enthält.
@@ -87,8 +93,8 @@ public class Category {
                 		bufW.write("|" + a[5] + "|"); 
                 		bufW.write(      a[4] + "|");
                 		bufW.write(      a[0] + "|");
-                		bufW.write(      a[2] + "|");
                 		bufW.write(      a[3] + "|"); 
+                		bufW.write(      a[2] + "|");                		
                 		bufW.write("\n"); 
                 	}               	
                 }                	
