@@ -1,0 +1,665 @@
+Brandfield|Kleidung
+Bauer Vertriebs|Kleidung
+Ilmtalklinik|Gesundheit
+Josef Witt|Kleidung
+bonprix|Kleidung
+engelbert strauss|Kleidung
+Rundfunk ARD ZDF|laufende Kosten
+Engbers|Kleidung
+LHST. MUENCHEN, VERKEHRSUEB|Auto
+Rennbahnladen|Freizeit
+MESSEGELAENDE|Urlaub
+LEDERZENTRUM|laufende Kosten
+DINOSAURIER PARK|Urlaub
+VHS|Sport
+Deutsches Museum|Freizeit
+Bueromarkt|Beruf
+Betz DSR|Sport
+Mobelhof|Möbel
+BRILLEN-BURG|Gesundheit
+GEORG REITBERGER|laufende Kosten
+KANIROPE|Sport
+SPIEL+FREIZEIT|Freizeit
+BIJOUBRIGITTE|Freizeit
+HELLABRUNN|Urlaub
+ZOOSHOP|Urlaub
+TAKKO|Kleidung
+TK Maxx|Kleidung
+PRESS + BOOKS|Freizeit
+Bike-Discount|Freizeit
+HOF BEI SALZB|Urlaub
+Volkshochschule|Sport
+HOHENKAMMER Kartenzahlung|Lebensmittel
+NISSL|Gesundheit
+BIJOU BRIGITTE|Freizeit
+Kfz-Steuer|Auto
+RABL GMBH|Haus
+myCare|Gesundheit
+SIEBZEHNRUEBL|Freizeit
+Kartenzahlung HIT|Lebensmittel
+BRAUEREIGASTHOF|Urlaub
+Bauer Willy|Eltern
+Bauer Elisabeth|Eltern
+RENT-A-CAR|Auto
+MUENCHEN-KAUFINGERSTR|Kleidung
+Apotheke|Gesundheit
+801/141899|Versicherung
+Kraftfahrtversicherung|Auto
+Galerie Optik|Gesundheit
+Betreutes Wohnen|Eltern
+SeniorenWohnen|Eltern
+IsarCard|Beruf
+Kaufhaus Urban|Kleidung
+Easy-Apotheke|Gesundheit
+JimDrive|Auto
+Bauernmarkt|Urlaub
+KUK ALTOMUENSTER|Lebensmittel
+DE05200411330478120900|Sabine
+DE28700500000002024100|laufende Kosten
+Obermeier Sabine DE05200411330478120900|Sabine
+engelbert strauss|Kleidung
+ENGELBERT STRAUSS|Kleidung
+maXXim|Telefon
+Alpenvereins|Sport
+Drillisch Online|Telefon
+STEFAN PECHLER|laufende Kosten
+DE15VHS00000323582|Ben Luca
+AMAZON|Freizeit
+TANKSTELLE|Tanken
+Yello|Strom
+Vodafone|Telefon
+VODAFONE|Telefon
+Telekom|Telefon
+IGM|Beruf
+MAN Truck|Einkommen
+GA NR|Geldautomat
+Katholische Kirchenstiftung|Ben Luca
+Muenchener Hypothekenbank|Kredit
+Tank|Tanken
+HUK|Versicherung
+STADTWERKE DACHAU|Sport
+Dirrhammer|laufende Kosten
+Conrad|Haus
+LUMITRONIX|Haus
+OBI|Haus
+Penny|Lebensmittel
+KUSCH-SCHRAUBEN|Haus
+Zweckverband|Haus
+Grundsteuer|laufende Kosten
+Brandfield|Freizeit
+AUTO|Auto
+Boulder- u. Soccercenter|Sport
+dataTec AG|Haus
+GALERIA Kaufhof|Ben Luca
+GeldKarte|Geldautomat
+ALLGUTH|Auto
+Abfallgebuehren|laufende Kosten
+Wuertt.Gemeinde|Auto
+Scheckeinreichung|Einkommen
+HAGEBAUMARKT ELLWANGER|Haus
+BAUMARKT|Haus
+Auszahlung mit Kundenentgelt|Geldautomat
+Delticom AG|Auto
+KART PALAST|Freizeit
+STEFAN PECHLER|Haus
+KFZ-Preufstelle|Auto
+Auszahlung Deutsche Bank|Geldautomat
+vertriebs-center|Haus
+SCHADEN|Auto
+myCARE|Gesundheit
+HAGEBAU|Haus
+BAUMSCHUL|Haus
+C+A|Kleidung
+KIRCHENSTEUER|Steuer
+Kanalbenutzung|laufende Kosten
+ELV Elektronik|Haus
+BURDA SENATOR|Freizeit
+CLEVERBRIDGE|PC
+CONRAD ELECTRONIC|Haus
+BUERO BERUFSSTRATEGIE|Beruf
+BAU-ZENTRUM SCHROBENHAUSEN|Haus
+BUERO FUER BERUFSSTRATEGIE|Beruf
+SCHUSTER STEINMETZ|Haus
+HEIZOEL|laufende Kosten
+WORMLAND|Kleidung
+VISA-KARTE|Barzahlung
+WEIDL ROLLADENBAU|Haus
+YOGA|Sport
+RECHTSANWALT|Anwaltskosten
+Pressevertrieb|Freizeit
+FernUniversitaet in Hagen|Fortbildung
+AGIP|Auto
+EMV|Auto
+Leitenberger|Möbel
+Tengelmann|Lebensmittel
+swissflex|Möbel
+WEILACHGRUPPE|laufende Kosten
+OMV|Auto
+EDEKA|Lebensmittel
+STIGLMAYR|Auto
+ARAL|Auto
+TAICHI|Gesundheit
+E.ON BAYERN|laufende Kosten
+ORTHOPAEDIE|Gesundheit
+REWE|Lebensmittel
+babymarkt.de|Ben Luca
+Caseking|Beruf
+ALDI|Lebensmittel
+SESSNER|Beruf
+Baur Versand|Kleidung
+APOTHEKE|Gesundheit
+Finanzamt|Steuer
+PRAKTIKER|Haus
+NETTO|Lebensmittel
+MOEBEL|Möbel
+BAUFUCHS|Haus
+FA DACHAU|Steuer
+SCHLECKER|Lebensmittel
+ELEKTRONIK|Haus
+EIBMARKT|Haus
+SABINETILGUNGSRATEKIEFERNSTR|Kredit
+SCHUHE|Kleidung
+NATURKOSTINSEL|Gesundheit
+MAN VERDIENSTABRECHNUNG|Einkommen
+Bauer Vertriebs|Kleidung
+FLIESEN|Haus
+FERNUNIVERSI|Fortbildung
+EINRICHTUNGSHAUS|Möbel
+MATRATZEN|Möbel
+C + A|Kleidung
+KLOIBER GMBH|Auto
+Josef Witt|Kleidung
+AUDI BANK|Übertrag
+SPORT|Freizeit
+DEICHMANN|Kleidung
+SPATZL|Auto
+LOTTO|Telefon
+FACTORY OUTLET|Kleidung
+SHELL|Auto
+SPORTSWEAR|Kleidung
+BETTEN|Möbel
+ELEKTRO|Haus
+LATTENROST|Möbel
+PHARMA|Gesundheit
+BAYWA|Haus
+MAHLER|Haus
+REIFEN|Auto
+bonprix|Kleidung
+REWE|Lebensmittel
+ALDI|Lebensmittel
+KIK|Kleidung
+ERNSTINGS|Kleidung
+KAUFLAND|Lebensmittel
+TEDI|Kleidung
+TANKEN|Tanken
+C&A|Kleidung
+APOTHEKE|Gesundheit
+DROGERIEMARKT|Gesundheit
+Drogeriemarkt|Gesundheit
+Juergen Obermeier|Übertrag
+GEHALT|Einkommen
+LIDL|Lebensmittel
+Uebertrag auf Tagesgeld|UEbertrag
+Josef Witt|Kleidung
+Yves Rocher|Kleidung
+NORMA|Lebensmittel
+AGIP|Auto
+Abschluss Zinsen|Zinsen
+LHM|Einkommen
+HUK-COBURG|Versicherung
+TAICHI|Sport
+BARZAHLUNG|Barzahlung
+KAUFHOF|Kleidung
+Auszahlung GAA|Barabhebung
+MELIC|Lebensmittel
+PENNY|Lebensmittel
+GELDKARTE|Barabhebung
+HUGENDUBEL|Freizeit
+VERKEHRSGESELLSCH|Beruf
+ADLER|Kleidung
+ELTERNGELD|Einkommen
+BABY|Ben Luca
+C & A|Kleidung
+Monatliche Gutschrift|sonstige Einnahmen
+UEBERTRAG AUF GIROKONTO|Übertrag
+OMV|Auto
+EDEKA|Lebensmittel
+WOERL|Kleidung
+NETTO|Lebensmittel
+AWG|Kleidung
+KORNPROBST|Kleidung
+NKD|Kleidung
+WALZ|Kleidung
+FRANK REGNER|Gesundheit
+EIBMARKT|Haus
+BAUR|Kleidung
+MOBIL OIL|Gesundheit
+VERLAGSGRUPPE|Freizeit
+DEICHMANN|Kleidung
+MYCARE|Gesundheit
+BON PRIX|Kleidung
+BAUER|Kleidung
+DROG. M|Gesundheit
+STADT MUENCHEN|Einkommen
+MEDISERV|Gesundheit
+BADER SCHLEICH|Haus
+Buttinette|Kleidung
+TEILNEHMER-NR|Sport
+PRESSEVERTRIEB|Freizeit
+WOLLVERSAND|Kleidung
+TANK|Tanken
+LEBENSMITTEL|Lebensmittel
+HAPPY SIZE|Kleidung
+OTTO  GMBH|Kleidung
+OBI|Haus
+ERWIN MUeLLER|Kleidung
+ROSSMANN|Gesundheit
+Kloiber|Auto
+KLARNA|Ben Luca
+AUTO-TEILE|Auto
+CANDELA LIGHTS|Haus
+Erstattung|Einkommen
+SABINE TILGUNGSRATE|Übertrag
+DP AG|Post
+MARVELIS|Kleidung
+SIGNUM STORE|Kleidung
+DEUTSCHE TELEKOM AG|Telefon
+ABFALLGEBUEHREN|laufende Kosten
+CKU INGOLSTADT|Kleidung
+VFFO INGOLSTADT|Kleidung
+CLICKANDBUY|Internet
+B 300|Auto
+UEBERTRAG AUF TAGESGELD|Übertrag
+WWW.VOLTUS.DE|PC
+GRUNDSTEUER|laufende Kosten
+DIGITAL RIVER GMBH|Haus
+EIG ENHEIMZUL|Haus
+AUGENSTERN OPTIK|Gesundheit
+AUDI ZENTRUM|Auto
+DR. PETER LINSMEIER|Gesundheit
+WEILACHGRUP|laufende Kosten
+SATURN|PC
+STEINMETZ|Haus
+JOHANN BELLAN|Haus
+BICHLMAIER|Haus
+BAUZENTRUM SCHROBENHAUSEN|Haus
+EURO-TROCKENBAU|Haus
+E-ON BAYERN|laufende Kosten
+NATURSTEIN SUED|Haus
+NATURSTEIN SUeD|Haus
+M A N  NUTZFAHRZEUGE|Einkommen
+MEDIA MARKT|PC
+HARTNAGEL ELECTRONIC|PC
+TELEKOM|Telefon
+TA SEITZ GEROLSBACH|Auto
+VEREINSBK.VICT.BAUSPAR|Kredit
+TRANSTODIBA|Übertrag
+GEMEINDE HILGERTSHAUSEN|laufende Kosten
+WESTERMEIER|Haus
+TS SCHREYER|Auto
+BAD.GEM.-VERS|Versicherung
+BP-81673|Auto
+ESSO DEUTSCHLAND|Auto
+FA MUENCHEN-ZENTRAL|Steuer
+BGV BADISCHE VERSICHERUNGEN|Versicherung
+SANITAETSHAUS KURTZE|Gesundheit
+FUCHS FARBE U. DESIGN|Haus
+AUERBECK HANS-GUENTHER|Geschenk
+KFZ TSCHUMPL|Auto
+Tschumpl|Auto
+JOSEF AIDELSBURGER|Haus
+GEIGER GERHARD|Haus
+ZWECKVERBAND Z. WASSERVERSO|laufende Kosten
+ZWECKVERBAND|laufende Kosten
+HAUSTUER WAGNER|Haus
+PECHLER HEIZUNGSBAU|laufende Kosten
+UNIVERSITAETS-BUCH. LACHNER|Fortbildung
+CONRAD|Haus
+ABSCHLAG STROM/GAS|laufende Kosten
+LOEHR, THOMAS|Miete
+LÖHR, THOMAS|Miete
+HOCHAECKER HOF|Freizeit
+NOTAR ZOEBELEIN|Haus
+NOTARKOSTEN|Haus
+GRUNDSTUECKSKAUF|Haus
+GRUNDSTUECK|Haus
+GRUNDERWERBSSTEUER|Steuer
+GRUNDERWERB|Steuer
+SCHINDELAR|Auto
+ZWECKVERB|laufende Kosten
+SCHMALZ PETER|Haus
+JET DEGGENDORF|Auto
+NACHPUTZARBEITEN|Haus
+EBAY.COM|Freizeit
+TRANSFERTODAB|Übertrag
+HL MUENCHEN|Lebensmittel
+PROMARKT|PC
+ZUM BRUNNWART|Freizeit
+DR. F. JEUTTER|Einkommen
+TECO|PC
+BU MUENCHEN|Freizeit
+LANZ, HOFFMANN|Beruf
+BLUMEN SCHEWE|Freizeit
+STOK BAYERN|Strafzettel
+FIRSTGATE INTERNET|PC
+SPIELWAREN SCHMIDT|Freizeit
+TRAVEL FM REISEN|Urlaub
+WOEHRL|Kleidung
+KARSTADT WARENHAUS|Freizeit
+VERKEHRSANZEIG|Strafzettel
+RS COMPONENTS|PC
+PEEK & CLOPPENBURG|Kleidung
+HEIMSTATT BAUSPAR|Bauspar
+HIT-MARKT|Lebensmittel
+IHR HIT|Lebensmittel
+CLEMENSSTR. 18|Miete
+SWATCH STORE|Freizeit
+VIDEO SAUTER|Freizeit
+BP MUENCHEN|Tanken
+WIELAND|Kleidung
+WIRTSHAUS LEIBERHEIM|Freizeit
+COIFFEUR EMPL|Friseur
+TOOM|Haus
+KAUT-BULLINGER|Freizeit
+SALAMANDER|Kleidung
+KFZ ZULASSUNGSTELLE MCH|Auto
+BAUZENTENTRUM SCHROBENHAUSE|Haus
+HOLZ-MUELLER|Haus
+ESPRIT STORE|Kleidung
+HERRENMODEN ECKERLE|Kleidung
+MICHAEL PILS|Haus
+FERIO ITAL. HERRENMODE|Kleidung
+DEKRA|Auto
+ELEKTOR-VERLAG|Beruf
+GELDGESCHENK|Einkommen
+ZUENDL ARESING|Haus
+FUER HAUSTUER|Haus
+TERRASHOP GMBH|Haus
+PSD BANK MUENCHEN|Bauspar
+STAATSOBERKASSE BAYERN|Haus
+FINANZAMT SCHROBENHAUSEN|Finanzamt
+TOTAL/MUENCHEN|Tanken
+ALBERT WAGNER|Haus
+VERLEIHNIX|Haus
+STAATSOBERKASSE LANDSHUT|Haus
+NOTAR JOERG ZOEBELEIN|Haus
+ASCOT HOTEL|Beruf
+BAUGESCHAEFT GBR. BAUMGARTN|Haus
+LANDESJUSTIZKASSE BAMBERG|Haus
+MARTIN DIRRHAMMER|laufende Kosten
+BELLAN JOHANN|Haus
+SIMON WALLNER|Haus
+ROBERT HELD|Haus
+HELD WEISSPUTZ|Haus
+WASSERVERSORGUNG|laufende Kosten
+RIEDL & REIF|Haus
+VERMESSUNGSAMT DACHAU|Haus
+NEUMUELLER ESTRICHE|Haus
+STRIXNER+HOLZINGER|PC
+DOSCOM COMPUTER MARKT|PC
+SANITAeTSHAUS KURTZE|Gesundheit
+HILTI CENTER|Haus
+FRISEUR SALON|Friseur
+Autohaus Stiglmayr|Auto
+JUERGEN OBERMEIER CD-UEB|Übertrag
+OBERMEIER JUERGEN CD-UEB|Übertrag
+SABINE OBERMEIER CD-UEB|Übertrag
+OBERMEIER SABINE CD-UEB|Übertrag
+OBERMEIER, JUERGEN RUECKUEBERW|Übertrag
+OBERMEIER, SABINE OBERMEIER JUERGEN|Übertrag
+OBERMEIER JUERGEN OBERMEIER|Übertrag
+SABINE CD-UEB|Übertrag
+KONTOLOESCHUNG|Übertrag
+JOSEF HARTL|Einkommen
+SEEBACHER|Haus
+GLAS GMBH|Haus
+MM-MUSIK-MEDIA|Freizeit
+AVIA|Tanken
+SPIELWELT INDERSDORF|Ben Luca
+Stefan Pechler|laufende Kosten
+KFZ-STEUER|Auto
+Gutschriften|Einkommen
+MOTORKOHLEN|laufende Kosten
+EXPERT TECHNO|PC
+LIBRI.DE|FreizeitYELLO STROM
+YELLO|laufende Kosten
+VORWERK DEUTSCHLAND|Werkzeug
+ZAGRAY GARTEN|Haus
+INTERSPA|Freizeit
+MAN TRUCK & BUS|Einkommen
+WOHN-FREUNDE|Möbel
+ALU-VERKAUF.DE|Möbel
+BAUHAUS|Haus
+Elektroteile und Geraete|laufende Kosten
+FREEXPRESS|PC
+Visa-Kartenabrechnung|Kreditkarte
+Kamilux|Möbel
+Wuertt. Gemeinde-Versicherung|Versicherung
+Edelstahl-Handel|Haus
+ALL SEASONS HOTEL|Beruf
+ESSO STATION|Tanken
+ENGBERS|Ben Luca
+INTERSPA|Freizeit
+EURONICS|PC
+SEGMUELLER|Möbel
+AUFLOESUNG|Übertrag
+PMS GMBH REDEKOP|Beruf
+MD-SOFORTHOEREN.DE|Freizeit
+DANILO ANGERER|Kleidung
+KWK PRaeMIE|Einkommen
+TOTAL/BAD LAUTERBERG|Tanken
+ARVENA PARK|Beruf
+MARIO AUMUELLER|Haus
+HALMBURGER U.HOEFLICH|Auto
+BELLAN, SCHMALZ, BICHLMEIER|Übertrag
+PELE S COMPUTER BUECHER|PC
+MINIMAL ISMAN.|Lebensmittel
+HAMM&HOLLINGER|Auto
+TOTAL/GARCHING|Tanken
+VEREINSBK.VICT.BSPAG|Bauspar
+ELEMENT 5|Haus
+KASSEN- UND STEUERAMT|Auto
+GEMEINDE 94539 GRAFLING|Haus
+JUERGEN OBERMEIER UEBERWEISUNG AUF GIROKONTO|Übertrag
+GENRAD|Einkommen
+TOTALFINAELF/FREISING|Tanken
+MAHAG|Auto
+IHR PLATZ ELV|PC
+FLORA SHOP|Freizeit
+TVMOVIE.DE|Freizeit
+PAPETERIE IM PEP|Beruf
+GELDGESCH ENK|Einkommen
+TRANSFER|Übertrag
+FUER HELD U. NIEDERMAIR|Übertrag
+RUECKUEBERWEISUNG|Übertrag
+OBERMEIER SABINE VON SABINE OBERMEIER|Übertrag
+RE-IN RETAIL|Beruf
+ANTON GROPPER|Haus
+ZIEGLMEIER|laufende Kosten
+TOTAL  DACHAU|Tanken
+Techniker Krankenkasse TK-Beleg|Einkommen
+MAN SE MAN TRUCK|Einkommen
+MAN NUTZFAHRZEUGE|Einkommen
+KURS ERZIEHUNG MIT DEM KGARTEN|Ben Luca
+DAH-UP 280|Strafzettel
+DAH-UP280|Strafzettel
+OBERMEIER SABINE JUERGEN OBERMEIER|Übertrag
+Dr. Juergen Garus|Gesundheit
+Voltus|PC
+BADER PARKETT|Haus
+OUTDOORTREKKING|Freizeit
+MARTIN BAYER|Kleidung
+BAYER MARTIN|Kleidung
+DEPAULI|Möbel
+SPAETH ZAEUNE GARTENHOELZER|Haus
+glas seele|Haus
+Spiegel-Shop|Haus
+Unternehmensgrup|Versicherung
+KONTOUeBERTRAG|Übertrag
+RUECKUEBERW|Übertrag
+KREISVERWALTUNGSREF|Strafzettel
+TST. M NCHEN FRIEDRICH-ECKA|Unbekannt
+OBERMEIER LUDWIG|Freizeit
+LUDWIG OBERMEIER|Freizeit
+SW MUENCHEN|Miete
+DEA8846 GRAEFELFING|Unbekannt
+DEA2271 OLCHING|Unbekannt
+DTS SERVICE CENTER|Unbekannt
+TS SCHOELLER|Unbekannt
+LODER EC|Unbekannt
+KREILLERSTR|Unbekannt
+AUERBECK|Freizeit
+POETTMESER STR9|Unbekannt
+KARTENSERVICE|Unbekannt
+WIEDER FALSCH GEBUCHT|Übertrag
+Versicherungsgruppe|Versicherung
+BJOERN WOLF|Unbekannt
+ONLINE-BANKING|Übertrag
+DEUTSCHE POST AG|Post
+NK ALTOMUENSTER|Sport
+Moebelconcept24|Möbel
+FREIZEITPARK|Freizeit
+1090-044129-12/7|Strafzettel
+NEUESBAD HANDELS|Haus
+ROSTFREI EDELSTAHL|Haus
+Karsten Stegner|Werkzeug
+RADON ANALYTICS|Haus
+THERME ERDING|Freizeit
+GRUBER*ERDING|Freizeit
+SONJA GRIMM-BACHERT|Sport
+GartenXXL|Haus
+QUOKA GMBH|Freizeit
+Depotgebuehren|Gebuehren
+STAUDENGAERTNEREI|Haus
+DEHNER|Haus
+V-MARKT|PC
+SPAETH  ZAEUNE|Haus
+SCHWABA GMBH|Haus
+SINNLEFFERS|Kleidung
+SHOGAZZI SCHLAFKULTUR|Möbel
+WOLFGANG HAEFNER|Unbekannt
+TYROLLER-HOF|Freizeit
+TOYS R US GMBH|Ben Luca
+BEST WESTERN HOTEL|Beruf
+SCHMID GMBH|Unbekannt
+TREND ELECTRONICS GMBH|PC
+EXPERT SCHROBENHAUSEN|PC
+HAAGE&PARTNER COMPUTER GMBH|PC
+MATTHIAS HOFFMANN|Unbekannt
+ALTERNATE COMPUTERVERSAND|PC
+HOERGERAETE SEIFERT|Sport
+ILMTALKLINIK|Gesundheit
+DINOSAURIER WERKZEUGE|Werkzeug
+GARANTIEVERSICHERUNG|Versicherung
+VOLKSWAGEN VERSICHERUNG|Auto
+COMPUTERUNIVERSE|PC
+LAMPENWELT|Möbel
+NOTEBOOKSBILLIGER.DE|PC
+XXXL-SERVICE|Möbel
+KATHOLISCHE KIRCHENSTIFTUNG KINDERGARTENGEBUEHREN|Ben Luca
+SEBASTIAN WITTE|Auto
+STAATSOBERK.BAY|Finanzamt
+Firma Petzoldts|Auto
+Segmueller|Möbel
+Heinrich Heine|Kleidung
+Franz Spiller|Unbekannt
+EBOOK.DE|Freizeit
+KROEMER GBR|Unbekannt
+DAUBMEIER|Unbekannt
+WOLFGANG HAEFNER|Unbekannt
+DEMOTEX GMBH|Unbekannt
+DESSOUS MONDE|Freizeit
+JOSEF GRASSL|Unbekannt
+KUES KFZ-Pruefstelle|Auto
+net-m Privatbank|Unbekannt
+OPTIK TANNEK|Gesundheit
+FRUEHLINGS HOTEL|Beruf
+K-LOG Lagersysteme|Möbel
+Moebel Krueger|Möbel
+Der Wieshof|Urlaub
+BayWa AG|Haus
+BayWa|Haus
+Fuchs Farbe und Design|Haus
+reichelt elektronik|PC
+Gerd Duering|Unbekannt
+Abwassergebuehren|laufende Kosten
+Fotografen Online|Beruf
+MotorLand.net|Werkzeug
+Peter Ritzer|Unbekannt
+Miele-Studio-Schilcher|Möbel
+Kessel + Manstetten|Ben Luca
+OnlineTicket|Beruf
+C. Feldhoff + M. Hermann|Unbekannt
+LANDRATSAMT DACHAU|Haus
+www.video2brain.com|Beruf
+Burda Media|Freizeit
+Bayerische Verwaltungsschule|Beruf
+AGRARHANDEL GOTTSCHALK|Haus
+IBOORBERG Verlag|Beruf
+SVETLANA HENKES|Unbekannt
+DW-Shop|Unbekannt
+PAYONE GmbH|Freizeit
+SBSCOM MITARBEITERPORT|Freizeit
+SBS Communication|Freizeit
+Weltbild GmbH|Freizeit
+WGV-Versicherungen|Auto
+WGV VERSICHERUNGEN|Auto
+WGV-VERSICHERUNGEN|Auto
+Verlagsgruppe Weltbild|Freizeit
+eibmarkt.com|Haus
+sportshooter.de|Unbekannt
+GARTENHOELZER|Haus
+Sonderzahlung|Übertrag
+Burda Senator Verlag|Freizeit
+ROTHER FRIEDERIKE|Unbekannt
+DREHMOMENTSCHLUESSEL|Werkzeug
+VOLTUS|PC
+Werkzeughandelsgesellschaft|Werkzeug
+SVETLANA KHENKES|Unbekannt
+ANGELO PUGLIESE|Kleidung
+ERWIN MUELLER|Unbekannt
+freeXpress Holding|PC
+DE41640400330422688200|Unbekannt
+5YR4742600643405Y|Unbekannt
+TUeV SUeD|Auto
+8RR40125RC779224T|Unbekannt
+DE27120700888000033554|Unbekannt
+DE33300500007060506388|Unbekannt
+LOIPERDINGER ENERGIE|laufende Kosten
+ANWALTSHOTLINE|Anwaltskosten
+THERAPIEZENTRUM WALTER|Gesundheit
+EBAY|Ebay
+VISION OPTIK|Gesundheit
+MARION BECHINIE|Freizeit
+BURG & ROTH|Gesundheit
+AZH-GMBH|Gesundheit
+TK-|Gesundheit
+DAH-BF 420|Strafzettel
+BRILLEN BURG|Gesundheit
+GLOBAL COLLECT|Freizeit
+MOEVE SHOP|Unbekannt
+IST SCHON WIEDER|Übertrag
+Victoria|Kredit
+VICTORIA|Kredit
+nicht angegeben|Unbekannt
+RUEBSAMEN GMBH|Haus
+DIVIDENDE|Einkommen
+BARGELDAUSZAHLUNG|Barabhebung
+INTERNET BIBIT|PC
+INGOLSTADT GMBH|Kleidung
+Helmut Steiner|Auto
+AGRARH GOTTSCHALK|Haus
+Dr. Tobias Prassler|Gesundheit
+ENDRESS MOTORGERAETE|Werkzeug
+Moebelhof|Möbel
+kfzteile24|Auto
+Hypothekenbank VERTRAG|Kredit
+Atrium24.de|Haus
+Umwaelz pumpe|laufende Kosten
+WERKZEUGFACHMARKT|Werkzeug
+DELTICOM|PC
+ZIMMEREI ZIEGENAUS|Haus
+CANDELA-LIGHTS|Möbel
+AUDIOSYSTEMS|PC
+EHRWALD|Urlaub
+BIBERWIER|Urlaub
